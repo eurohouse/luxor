@@ -1,0 +1,110 @@
+{
+    "cheese": {
+        "title": "Cheese Table ([app_version])",
+        "language": {
+            "RU": "Сырная тарелка ([app_version])"
+        }
+    },
+    "coffeebeans": {
+        "title": "Coffee Beans ([app_version])",
+        "language": {
+            "RU": "Кофейные зерна ([app_version])"
+        }
+    },
+    "cbf": {
+        "title": "Continental Breakfast ([app_version])",
+        "language": {
+            "RU": "Континентальный завтрак ([app_version])"
+        }
+    },
+    "ebf": {
+        "title": "English Breakfast ([app_version])",
+        "language": {
+            "RU": "Английский завтрак ([app_version])"
+        }
+    },
+    "gold": {
+        "title": "Golden Bars ([app_version])",
+        "language": {
+            "RU": "Золотые слитки ([app_version])"
+        }
+    },
+    "macarons": {
+        "title": "Macarons Dessert ([app_version])",
+        "language": {
+            "RU": "Макаронс Десерт ([app_version])"
+        }
+    },
+    "meat": {
+        "title": "Meat Table ([app_version])",
+        "language": {
+            "RU": "Мясная тарелка ([app_version])"
+        }
+    },
+    "mech": {
+        "title": "Clocks Mechanism ([app_version])",
+        "language": {
+            "RU": "Механизм часов ([app_version])"
+        }
+    },
+    "nebula": {
+        "title": "Starry Nebula ([app_version])",
+        "language": {
+            "RU": "Туманность ([app_version])"
+        }
+    },
+    "ornament": {
+        "title": "European Ornament ([app_version])",
+        "language": {
+            "RU": "Европейские узоры ([app_version])"
+        }
+    },
+    "praline": {
+        "title": "Belgian Praline ([app_version])",
+        "language": {
+            "RU": "Пралине ([app_version])"
+        }
+    },
+    "silkfabric": {
+        "title": "Soft Silk Farbic ([app_version])",
+        "language": {
+            "RU": "Нежная шёлковая ткань ([app_version])"
+        }
+    },
+    "tiramisu": {
+        "title": "Tiramisu Cake Recipe ([app_version])",
+        "language": {
+            "RU": "Рецепт Торта Тирамису ([app_version])"
+        }
+    },
+    "tropic": {
+        "title": "Tropical Delight ([app_version])",
+        "language": {
+            "RU": "Тропическое наслаждение ([app_version])"
+        }
+    },
+    "waffle": {
+        "title": "Belgian Waffles Dessert ([app_version])",
+        "language": {
+            "RU": "Бельгийские вафли ([app_version])"
+        }
+    },
+    "watch": {
+        "title": "Wenger Swiss Watch ([app_version])",
+        "language": {
+            "RU": "Швейцарские часы Wenger ([app_version])"
+        }
+    },
+    "wine": {
+        "title": "Cabernet Franc Red Wine ([app_version])",
+        "language": {
+            "RU": "Красное вино Каберне Фран ([app_version])"
+        }
+    },
+    "wool": {
+        "title": "Sheep Wool Fabric ([app_version])",
+        "language": {
+            "RU": "Ткань из овечьей шерсти ([app_version])"
+        }
+    }
+}
