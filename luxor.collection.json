@@ -47,18 +47,6 @@
             "RU": "Механизм часов ([app_version])"
         }
     },
-    "nebula": {
-        "title": "Starry Nebula ([app_version])",
-        "language": {
-            "RU": "Туманность ([app_version])"
-        }
-    },
-    "ornament": {
-        "title": "European Ornament ([app_version])",
-        "language": {
-            "RU": "Европейские узоры ([app_version])"
-        }
-    },
     "praline": {
         "title": "Belgian Praline ([app_version])",
         "language": {
