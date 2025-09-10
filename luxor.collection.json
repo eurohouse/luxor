@@ -32,7 +32,7 @@
     "macarons": {
         "title": "Macarons Dessert ([app_version])",
         "language": {
-            "RU": "Макаронс Десерт ([app_version])"
+            "RU": "Десерт Макаронс ([app_version])"
         }
     },
     "meat": {
@@ -50,7 +50,7 @@
     "praline": {
         "title": "Belgian Praline ([app_version])",
         "language": {
-            "RU": "Пралине ([app_version])"
+            "RU": "Бельгийские пралине ([app_version])"
         }
     },
     "silkfabric": {
